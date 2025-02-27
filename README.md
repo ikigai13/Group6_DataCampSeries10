@@ -1,4 +1,4 @@
-## Datacamp Series 10 - Big Data Certification Project (Data Hackathon) 
+# Datacamp Series 10 - Big Data Certification Project (Data Hackathon) 
 
 
 ### Group 6
